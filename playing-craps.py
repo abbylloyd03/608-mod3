@@ -1,4 +1,4 @@
-# playing-craps
+#Abby Lloyd playing-craps.py
 
 import random
 
